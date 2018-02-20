@@ -1,0 +1,10 @@
+pytest
+selenium
+braceexpand
+requests
+pytest-base-url
+django
+bs4
+jinja2
+django-mozilla-product-details
+django-live-server
